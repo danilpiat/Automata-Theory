@@ -1,0 +1,5 @@
+RU 2
+aaa 1
+com 3
+ru 1
+x 1
