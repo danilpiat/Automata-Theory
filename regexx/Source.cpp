@@ -14,6 +14,7 @@ int Input(), Read(), Show(), Timing(), Write();
 int(*Funcs[])() = { nullptr, Input,Read, Show,Timing,Write };
 bool checkString(const string& source, string& result);
 
+
 int getInt(int&);
 
 const int Num = sizeof(Menu) / sizeof(Menu[0]);
